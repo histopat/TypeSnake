@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TypeSnake/typesnake.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
